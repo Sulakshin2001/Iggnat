@@ -1,0 +1,12 @@
+.checkbox {
+display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.checkbox:checked{
+    appearance: none;
+}
+
+.spanClassName {
+
+}
